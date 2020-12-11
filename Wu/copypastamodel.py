@@ -77,7 +77,7 @@ from matplotlib import pyplot as plt
 plt.plot(I_ext,dphi)
     
 plt.legend(['dphi'])
-
+plt.show()
 
 
 
